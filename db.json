@@ -142,7 +142,7 @@
         "./assets/image/product/iRescueApp-java-2.png",
         "./assets/image/product/HERMEX_Web_3.png"
       ],
-      "price": "310.09",
+      "price": 310.09,
       "author": "letrungnhan",
       "rating": 3,
       "languageName": [
@@ -219,7 +219,7 @@
         "./assets/image/product/iRescueApp-java-3.png",
         "./assets/image/product/iRescueApp-java-4.png"
       ],
-      "price": "310.09",
+      "price": 310.09,
       "author": "letrungnhan",
       "rating": 3,
       "languageName": [
@@ -246,7 +246,7 @@
         "./assets/image/product/MallShopping-android-3.png",
         "./assets/image/product/MallShopping-android-4.png"
       ],
-      "price": "150.09",
+      "price": 150.09,
       "author": "hoxuanthinh",
       "rating": 3,
       "languageName": [
@@ -271,7 +271,7 @@
         "./assets/image/product/Tooday-android-2.png",
         "./assets/image/product/Tooday-android-3.png"
       ],
-      "price": "956.89",
+      "price": 956.89,
       "author": "chungtrithong",
       "rating": 3,
       "languageName": [
@@ -297,7 +297,7 @@
         "./assets/image/product/MediaYouTube-3.png"
 
       ],
-      "price": "2,110.09",
+      "price": 210.09,
       "author": "letrungnhan",
       "rating": 3,
       "languageName": [
@@ -322,7 +322,7 @@
         "./assets/image/product/Crypto Central-2.png",
         "./assets/image/product/MediaYouTube-3.png"
       ],
-      "price": "346.09",
+      "price": 346.09,
       "author": "letrungnhan",
       "rating": 4,
       "languageName": [
@@ -345,7 +345,7 @@
         "./assets/image/product/Chat App-2.png",
         "./assets/image/product/Chat App-3.png"
       ],
-      "price": "99.09",
+      "price": 99.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -370,7 +370,7 @@
         "./assets/image/product/chatbox-php-2.png",
         "./assets/image/product/chatbox-php-3.png"
       ],
-      "price": "97.98",
+      "price": 97.98,
       "author": "letrungnhan",
       "rating": 3,
       "languageName": [
@@ -396,7 +396,7 @@
         "./assets/image/product/CRUD system-2.png",
         "./assets/image/product/MediaYouTube-3.png"
       ],
-      "price": "10.09",
+      "price": 10.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -422,7 +422,7 @@
         "./assets/image/product/Xsportz React-2.png",
         "./assets/image/product/Movie Website-3.png"
       ],
-      "price": "9.09",
+      "price": 9.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -448,7 +448,7 @@
         "./assets/image/product/CryptoPrice-2.png",
         "./assets/image/product/CryptoPrice-3.png"
       ],
-      "price": "119.09",
+      "price": 119.09,
       "author": "letrungnhan",
       "rating": 5,
       "languageName": [
@@ -472,7 +472,7 @@
         "./assets/image/product/App Reception Data-3.png",
         "./assets/image/product/App Reception Data-4.png"
       ],
-      "price": "30.09",
+      "price": 30.09,
       "author": "chungtrithong",
       "rating": 4,
       "languageName": [
@@ -498,7 +498,7 @@
         "./assets/image/product/THUNDER LAND-2.png",
         "./assets/image/product/MediaYouTube-3.png"
       ],
-      "price": "43.09",
+      "price": 43.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -525,7 +525,7 @@
         "./assets/image/product/MediaYouTube-2.png",
         "./assets/image/product/MediaYouTube-3.png"
       ],
-      "price": "171.09",
+      "price": 171.09,
       "author": "letrungnhan",
       "rating": 4,
       "languageName": [
@@ -549,7 +549,7 @@
         "./assets/image/product/social media-2.png",
         "./assets/image/product/social media-3.png"
       ],
-      "price": "240.09",
+      "price": 240.09,
       "author": "letrungnhan",
       "rating": 5,
       "languageName": [
@@ -575,7 +575,7 @@
         "./assets/image/product/Xsportz React-2.png",
         "./assets/image/product/Movie Website-3.png"
       ],
-      "price": "9.09",
+      "price": 9.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -601,7 +601,7 @@
         "./assets/image/product/Movie Website-2.png",
         "./assets/image/product/Movie Website-3.png"
       ],
-      "price": "109.09",
+      "price": 109.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -630,7 +630,7 @@
         "./assets/image/product/Flipkart Amazon-3.png",
         "./assets/image/product/Flipkart Amazon-4.png"
       ],
-      "price": "93.09",
+      "price": 93.09,
       "author": "letrungnhan",
       "rating": 4,
       "languageName": [
@@ -657,7 +657,7 @@
         "./assets/image/product/Flipkart Amazon-2.png",
         "./assets/image/product/Bhista Chat App-3.png"
       ],
-      "price": "9.09",
+      "price": 9.09,
       "author": "letrungnhan",
       "rating": 5,
       "languageName": [
@@ -685,7 +685,7 @@
         "./assets/image/product/Coffee Shop-5.png"
 
       ],
-      "price": "79.09",
+      "price": 79.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -710,7 +710,7 @@
         "./assets/image/product/Movie Website-2.png",
         "./assets/image/product/Movie Website-3.png"
       ],
-      "price": "99.09",
+      "price": 29.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -739,7 +739,7 @@
         "./assets/image/product/iRescueApp-java-3.png",
         "./assets/image/product/iRescueApp-java-4.png"
       ],
-      "price": "887.09",
+      "price": 887.09,
       "author": "letrungnhan",
       "rating": 4,
       "languageName": [
@@ -793,7 +793,7 @@
         "./assets/image/product/Coffee Shop-2.png",
         "./assets/image/product/Coffee Shop-3.png"
       ],
-      "price": "550.09",
+      "price": 550.09,
       "author": "letrungnhan",
       "rating": 3,
       "languageName": [
@@ -848,7 +848,7 @@
         "./assets/image/product/HERMEX_Web_2.png",
         "./assets/image/product/HERMEX_Web_3.png"
       ],
-      "price": "2,110.09",
+      "price": 110.09,
       "author": "hoxuanthinh",
       "rating": 4,
       "languageName": [
@@ -876,7 +876,7 @@
         "./assets/image/product/NeoCart-3.png"
 
       ],
-      "price": "450.09",
+      "price": 450.09,
       "author": "letrungnhan",
       "rating": 5,
       "languageName": [
@@ -905,7 +905,7 @@
         "./assets/image/product/App Reception Data-3.png",
         "./assets/image/product/App Reception Data-4.png"
       ],
-      "price": "150.09",
+      "price": 150.09,
       "author": "chungtrithong",
       "rating": 4,
       "languageName": [
@@ -932,7 +932,7 @@
         "./assets/image/product/Bhista Chat App-2.png",
         "./assets/image/product/Bhista Chat App-3.png"
       ],
-      "price": "96.89",
+      "price": 96.89,
       "author": "chungtrithong",
       "rating": 5,
       "languageName": [
@@ -957,7 +957,7 @@
         "./assets/image/product/ChatMe Simply-2.png",
         "./assets/image/product/ChatMe Simply-3.png"
       ],
-      "price": "310.09",
+      "price": 310.09,
       "author": "letrungnhan",
       "rating": 4,
       "languageName": [
@@ -982,7 +982,7 @@
         "./assets/image/product/WhatsApp-2.png",
         "./assets/image/product/ChatMe Simply-3.png"
       ],
-      "price": "34.09",
+      "price": 34.09,
       "author": "chungtrithong",
       "rating": 4,
       "languageName": [
@@ -1007,7 +1007,7 @@
         "./assets/image/product/Chat App-2.png",
         "./assets/image/product/Chat App-3.png"
       ],
-      "price": "99.09",
+      "price": 99.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -1032,7 +1032,7 @@
         "./assets/image/product/chatbox-php-2.png",
         "./assets/image/product/chatbox-php-3.png"
       ],
-      "price": "889.98",
+      "price": 889.98,
       "author": "letrungnhan",
       "rating": 5,
       "languageName": [
@@ -1058,7 +1058,7 @@
         "./assets/image/product/Android UI-3.png",
         "./assets/image/product/Android UI-4.png"
       ],
-      "price": "999.09",
+      "price": 999.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -1082,7 +1082,7 @@
         "./assets/image/product/CryptoPrice-2.png",
         "./assets/image/product/social media-3.png"
       ],
-      "price": "90.09",
+      "price": 90.09,
       "author": "letrungnhan",
       "rating": 5,
       "languageName": [
@@ -1107,7 +1107,7 @@
         "./assets/image/product/CryptoPrice-2.png",
         "./assets/image/product/CryptoPrice-3.png"
       ],
-      "price": "519.09",
+      "price": 519.09,
       "author": "letrungnhan",
       "rating": 5,
       "languageName": [
@@ -1134,7 +1134,7 @@
         "./assets/image/product/Coworking Workspace-3.png",
         "./assets/image/product/Coworking Workspace-4.png"
       ],
-      "price": "330.09",
+      "price": 330.09,
       "author": "chungtrithong",
       "rating": 4,
       "languageName": [
@@ -1160,7 +1160,7 @@
         "./assets/image/product/Tooday-android-2.png",
         "./assets/image/product/Tooday-android-3.png"
       ],
-      "price": "43.09",
+      "price": 43.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -1187,7 +1187,7 @@
         "./assets/image/product/MediaYouTube-2.png",
         "./assets/image/product/MediaYouTube-3.png"
       ],
-      "price": "71.09",
+      "price": 71.09,
       "author": "letrungnhan",
       "rating": 4,
       "languageName": [
@@ -1212,7 +1212,7 @@
         "./assets/image/product/social media-2.png",
         "./assets/image/product/social media-3.png"
       ],
-      "price": "240.09",
+      "price": 240.09,
       "author": "letrungnhan",
       "rating": 5,
       "languageName": [
@@ -1238,7 +1238,7 @@
         "./assets/image/product/Xsportz React-2.png",
         "./assets/image/product/Face Recognition-3.png"
       ],
-      "price": "92.09",
+      "price": 92.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -1266,7 +1266,7 @@
         "./assets/image/product/Movie Website-2.png",
         "./assets/image/product/Movie Website-3.png"
       ],
-      "price": "109.09",
+      "price": 109.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -1295,7 +1295,7 @@
         "./assets/image/product/Flipkart Amazon-3.png",
         "./assets/image/product/Flipkart Amazon-4.png"
       ],
-      "price": "93.09",
+      "price": 93.09,
       "author": "letrungnhan",
       "rating": 4,
       "languageName": [
@@ -1322,7 +1322,7 @@
         "./assets/image/product/Face Recognition-2.png",
         "./assets/image/product/Face Recognition-3.png"
       ],
-      "price": "9.09",
+      "price": 9.09,
       "author": "letrungnhan",
       "rating": 5,
       "languageName": [
@@ -1350,7 +1350,7 @@
         "./assets/image/product/Coffee Shop-5.png"
 
       ],
-      "price": "79.09",
+      "price": 79.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
@@ -1375,7 +1375,7 @@
         "./assets/image/product/Movie Website-2.png",
         "./assets/image/product/Movie Website-3.png"
       ],
-      "price": "99.09",
+      "price": 99.09,
       "author": "hoxuanthinh",
       "rating": 5,
       "languageName": [
